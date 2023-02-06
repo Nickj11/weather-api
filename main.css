@@ -1,0 +1,30 @@
+body{
+    display: flex;
+ 
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    margin: 0;
+    background-image: url('weather.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: aliceblue;
+}
+img{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
+.card{
+display: flex;
+color:black;
+
+justify-content: center;
+background-color: #2222;
+
+justify-items: center;
+}
+.container{
+    color: black;
+}
